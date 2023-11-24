@@ -1,7 +1,4 @@
 /******************************************************************************
-Skyler Williams CSC210
-9/25/22
-Number Guessing Game!
 This program allows the user to compete against the CPU in a randomized number
 guessing game. A certain number of points is awarded to either the CPU or user,
 depending on who correctly guesses the number first and also the difficulty
